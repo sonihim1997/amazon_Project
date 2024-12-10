@@ -17,7 +17,7 @@
     width: 125px; 
 }
 .logo{
-    background-image: url("/logo.jpg");
+    background-image: url("./logo.jpg");
     background-size: cover;
     height:50px;
     width: 100px;
@@ -189,7 +189,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url("/amazon_logo.png");
+    background-image: url("./amazon_logo.png");
     
     background-size: cover;
     justify-content: left;
